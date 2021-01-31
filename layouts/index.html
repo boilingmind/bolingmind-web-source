@@ -1,0 +1,21 @@
+{{ define "main" }}
+<section class="section container-fluid mt-n3 pb-3">
+  <!--div style="background-image: url('/images/banner2.jpg');"-->
+    <div class="col-lg-12 text-left">
+        <h1 class="mt-0">{{ .Title }}</h1>
+        <h2 class="mt-0">{{ .Description }}</h2>
+    </div>
+</section>
+{{ end }}
+
+{{ define "sidebar-footer" }}
+<div class="wrap container" role="document">
+<div class="content">
+<section class="wrap container section container-fluid mt-n3 pb-3 text-left">
+    <div class="col-lg-11">
+      {{- .Content -}}
+    </div>
+</section>
+</div></div>
+{{ end }}
+
