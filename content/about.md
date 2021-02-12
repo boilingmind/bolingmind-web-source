@@ -1,14 +1,11 @@
 ---
-title: "Contributors"
-description: "The Doks contributors."
-date: 2020-10-06T08:50:29+00:00
-lastmod: 2020-10-06T08:50:29+00:00
+title: "boiling mind contributors"
+description: ""
+date: 2021-02-11T22:57:36+09:00
+lastmod: 2021-02-11T22:57:36+09:00
 draft: false
 images: []
 ---
-
-The boiling mind contributors.
-
 
 The boiling mind contributors (if we missed somebody, sent a mail to Kai, we'll add you).
 

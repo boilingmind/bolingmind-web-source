@@ -1,13 +1,12 @@
 ---
-title: "Hello"
-description: "Introducing Doks, a Hugo theme helping you build modern documentation websites that are secure, fast, and SEO-ready — by default."
-lead: "Introducing Doks, a Hugo theme helping you build modern documentation websites that are secure, fast, and SEO-ready — by default."
-date: 2020-11-04T09:19:42+01:00
-lastmod: 2020-11-04T09:19:42+01:00
+title: "Hello World"
+description: "This is a first post."
+lead: "This is a frist blog post, just to check everything is up and workking."
+date: 2021-02-04T09:19:42+01:00
+lastmod: 2021-02-04T09:19:42+01:00
 draft: false
 weight: 50
-images: ["say-hello-to-doks.png"]
-contributors: ["Henk Verlinde"]
+contributors: ["Kai Kunze"]
 ---
 
-
+Just a sample post.
