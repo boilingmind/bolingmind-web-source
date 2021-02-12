@@ -1,7 +1,7 @@
 ---
 title: "Introduction"
-description: "Doks is a Hugo theme helping you build modern documentation websites that are secure, fast, and SEO-ready — by default."
-lead: "Doks is a Hugo theme helping you build modern documentation websites that are secure, fast, and SEO-ready — by default."
+description: ""
+lead: "Live performances can be enchanting experiences for both audiences and artists. However, even if artists carefully follow a strict script, each live performance is different since the involvement of the audience changes."
 date: 2020-10-06T08:48:57+00:00
 lastmod: 2020-10-06T08:48:57+00:00
 draft: false
@@ -13,46 +13,25 @@ weight: 100
 toc: true
 ---
 
-## Get started
+Although the audience is involved, there often is a separation between the audience and the artists on stage. 
 
-There are two main ways to get started with Doks:
+In this work, we are exploring means to strengthen the connection between the audience and artists. We present a stage production aiming to integrate the audience into the process of aesthetic creation via physiological sensing. We call this approach "Boiling Mind". 
 
-### Tutorial
+To realize "Boiling Mind", we expressed physiological signals from the audience during the performance via changes in common staging elements, such as projections, sound, and light elements. % which are common staging elements dancers usually refer to during performances. 
+The reactions of the audience are expressed through these staging elements and become a part of the performance. Additionally, artists on stage adapt their performance to the audience which creates a performative feedback loop. With the projections covering the whole stage performers can see the representation of the audience's physiological data and adjust their movements to create a calmer or more intense atmosphere.
 
-{{< alert icon="👉" text="The Tutorial is intended for novice to intermediate users." >}}
+# Concept Development 
 
-Step-by-step instructions on how to start a new Doks project. [Tutorial →](https://getdoks.org/tutorial/introduction/)
+The stage design and described setup came out of a collaboration between the performing artists, designers and researchers in a semi-democratic process.
 
-### Quick Start
+Both researchers and artists contributed to developing the concept during the iterative process to balance research and artistic interests. This process was mainly led by artists, especially the choreographer. Besides the predetermined story and design, the choreographer also created some improvisational sections where dancers could interact with stage elements affected by audience physiological response.
 
-{{< alert icon="👉" text="The Quick Start is intended for intermediate to advanced users." >}}
+During the performance, the physiological data of the audience was captured using custom built smart wristbands. The physiological data includes heartbeats, EDA, and the LF/HF ratio related to the heart rate variability. The staging elements changed based on the audience's physiological data.
 
-One page summary of how to start a new Doks project. [Quick Start →]({{< ref "quick-start" >}})
+This design aimed to deepen the connection between the audience and the dancers into a collaborative relationship by building a collective experience through the use of physiological data and reactive stage design.
 
-## Go further
+# Design Process
 
-Recipes, Reference Guides, Extensions, and Showcase.
 
-### Recipes
 
-Get instructions on how to accomplish common tasks with Doks. [Recipes →](https://getdoks.org/docs/recipes/project-configuration/)
 
-### Reference Guides
-
-Learn how to customize Doks to fully make it your own. [Reference Guides →](https://getdoks.org/docs/reference-guides/security/)
-
-### Extensions
-
-Get instructions on how to add even more to Doks. [Extensions →](https://getdoks.org/docs/extensions/add-google-fonts/)
-
-### Showcase
-
-See what others have build with Doks. [Showcase →](https://getdoks.org/showcase/neutrino-oscillations/)
-
-## Contributing
-
-Find out how to contribute to Doks. [Contributing →](https://getdoks.org/docs/contributing/how-to-contribute/)
-
-## Help
-
-Get help on Doks. [Help →]({{< ref "how-to-update" >}})
