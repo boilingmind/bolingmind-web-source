@@ -16,7 +16,7 @@ toc: true
 The collected physiological data of the audience is transmitted to the server over WiFi. The server re-streams the processed data to other computers controlling each staging element. 
 
 
-## Sensing Electrodermal and Heart Activity of the Audience
+## Sensing EDA and Heart Activity
 
 For this project we built wrist-worn devices measuring EDA from 2 electrodes on the fingers, and the heart rate using an optical blood volume pulse sensor. EDA signal was sampled at 4.545 Hz and the heart rate sensor at 50Hz.
 The recorded data was buffered in 400ms chunks and streamed to the server 2.5 times per second. The device was built around the ESP32 module with Bluetooth and WiFi connectivity. Internally the device samples the blood volume pulse at 500 Hz and runs heart beat detection on the 500 Hz data. Every 10th sample (50Hz), beats per minute and inter-beat interval were streamed to the server. EDA is sampled at 4.545 Hz, is digitally filtered and sent to the server as well, both raw values for recording and further analysis, and filtered values for visualisations. Transient response time of the filter output is guaranteed to be within 5\% of the steady state in 10 seconds, this is necessary to provide smooth signal for the visuals generation without the noise from touching or adjusting the electrodes. In order to save energy, each device is buffering all the data in every 400ms window and sends out the buffer 2.5 times per second.

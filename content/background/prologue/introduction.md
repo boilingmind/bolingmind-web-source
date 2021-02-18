@@ -20,7 +20,7 @@ In this work, we are exploring means to strengthen the connection between the au
 To realize "Boiling Mind", we expressed physiological signals from the audience during the performance via changes in common staging elements, such as projections, sound, and light elements. % which are common staging elements dancers usually refer to during performances. 
 The reactions of the audience are expressed through these staging elements and become a part of the performance. Additionally, artists on stage adapt their performance to the audience which creates a performative feedback loop. With the projections covering the whole stage performers can see the representation of the audience's physiological data and adjust their movements to create a calmer or more intense atmosphere.
 
-# Concept Development 
+## Concept Development 
 
 The stage design and described setup came out of a collaboration between the performing artists, designers and researchers in a semi-democratic process.
 
@@ -30,8 +30,9 @@ During the performance, the physiological data of the audience was captured usin
 
 This design aimed to deepen the connection between the audience and the dancers into a collaborative relationship by building a collective experience through the use of physiological data and reactive stage design.
 
-# Design Process
+## Design Process
 
+We applied a co-design process. In particular, we developed a dance performance in cooperation with a dance group. The choreographer and the dance group worked in close relations with visualization and sound designers, and researchers in wearable computing, neuroscience, and performing arts. Over the course of a year, we held regular meetings, discussions, tryouts and a test performances, demonstrating each others skills and expertise in a democratic process.
 
 
 
